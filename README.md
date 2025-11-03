@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**JWoong-01/JWoong-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=YUNYOUNG%20KIM&fontSize=50&fontColor=FFFFFF&fontAlignY=50&desc=Backend%20Developer&descAlignY=70)
+## :막대_차트: GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onuyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="195"/>
+</div>
+## :망치와_렌치: Tech Stack
+<img src="https://img.shields.io/badge/Oracle-F80000?style=lat-square&logo=oracle&logoColor=FFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=lat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=lat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=lat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=lat-square&logo=Spring-Security&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=lat-square&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=lat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=lat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=lat-squar&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=lat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+	
+___
+## :로켓: Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| Co's House | 오늘의 집 벤치마킹 | Aws, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/KernelSevenBird/Co-s_House) |
+| DevTogether | 코드 스니펫을 공유 플랫폼 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/FC-DevTogether/DevTogether) |
+___
+## :우편함: Contact
+<a href="mailto:yju407@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://dev-jw01.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
+<br/><br/>
