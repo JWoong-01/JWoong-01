@@ -47,7 +47,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Co's House** | 오늘의 집 벤치마킹 프로젝트 | AWS, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Thymeleaf, Querydsl | [Repo](https://github.com/JWoong-01/Co-s_House) |
-| **FreshBox** | 냉장고 재고관리 및 레시피 추천 앱 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/FC-DevTogether/DevTogether) |
+| **FreshBox** | 냉장고 재고관리 및 레시피 추천 앱 | Java, Spring Boot, MySQL, XML | [Repo](https://github.com/JWoong-01/capstone) |
 
 ---
 
