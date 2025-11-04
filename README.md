@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=YUNYOUNG%20KIM&fontSize=50&fontColor=FFFFFF&fontAlignY=50&desc=Backend%20Developer&descAlignY=70)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -18,21 +17,18 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
 
-<br/><br/>
 
 **Database**
 <br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-<br/><br/>
 
 **DevOps / Tools**
 <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-<br/><br/>
 
 **Languages**
 <br/>
@@ -47,7 +43,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Co's House** | 오늘의 집 벤치마킹 프로젝트 | AWS, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Thymeleaf, Querydsl | [Repo](https://github.com/JWoong-01/Co-s_House) |
-| **FreshBox** | 냉장고 재고관리 및 레시피 추천 앱 | Java, Spring Boot, MySQL, XML | [Repo](https://github.com/JWoong-01/capstone) |
+| **FreshBox** | 냉장고 재고관리 및 레시피 추천 앱 | Java, Spring Boot, Gradle, Spring Web/Data JPA/Validation, Dockerm MySQL | [Repo](https://github.com/JWoong-01/capstone) |
 
 ---
 
