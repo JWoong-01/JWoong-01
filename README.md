@@ -44,6 +44,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Co's House** | 오늘의 집 벤치마킹 프로젝트 | AWS, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Thymeleaf, Querydsl | [Repo](https://github.com/JWoong-01/Co-s_House) |
+| **Senior-chatbot** | 노인 행정도우미 RAG Agent 프로젝트 | React, Vite, TypeScript, Python, FastAPI, LangChain, LangGraph | [Repo](https://github.com/JWoong-01/Senior-chatbot) |
 | **FreshBox** | 냉장고 재고관리 및 레시피 추천 앱 | Java, Spring Boot, Gradle, Spring Web/Data JPA/Validation, Dockerm MySQL | [Repo](https://github.com/JWoong-01/capstone) |
 
 ---
