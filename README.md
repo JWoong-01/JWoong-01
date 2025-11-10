@@ -1,4 +1,3 @@
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JWoong-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
@@ -15,7 +14,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
 
 
 **Database**
